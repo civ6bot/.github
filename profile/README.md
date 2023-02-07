@@ -17,7 +17,6 @@
 - [**Website**](https://github.com/civ6bot/website) — visit Civ6Bot website to invite them or check Civ6Bot wiki (WIP).
 <br>
 #### You can check these bots on [Civ6Bot Discord server](https://discord.gg/CzCQPjxXTy).
-
 <br>
 
 ## <a name="list"></a>Why Civ6Bot?
