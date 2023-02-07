@@ -1,6 +1,6 @@
 # Civ6Bot - Discord bots for Civilization VI easy game
 <p align="center">
-    <img src="images/merged.png" width="715" height="400">
+    <img src="images/merged.png" width="536" height="300">
 </p>
 <br>
 
