@@ -15,7 +15,6 @@
 - [**Rating**](https://github.com/civ6bot/rating) — game history and tools for rating.
 - [**Miscellaneous**](https://github.com/civ6bot/miscellaneous) — fun and unnecessary content.
 - [**Website**](https://github.com/civ6bot/website) — visit Civ6Bot website to invite them or check Civ6Bot wiki (WIP).
-<br>
 You can check these bots on [Civ6Bot Discord server](https://discord.gg/CzCQPjxXTy).
 <br>
 
