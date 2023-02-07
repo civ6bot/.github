@@ -14,8 +14,8 @@
 - [**General**](https://github.com/civ6bot/general) — all requirements to start-up your Civilization VI game.
 - [**Rating**](https://github.com/civ6bot/rating) — game history and tools for rating.
 - [**Miscellaneous**](https://github.com/civ6bot/miscellaneous) — fun and unnecessary content.
-- [**Website**](https://github.com/civ6bot/website) — visit Civ6Bot website to invite them or check Civ6Bot wiki (WIP).
-#### You can check these bots on [Civ6Bot Discord server](https://discord.gg/CzCQPjxXTy).
+- [**Website**](https://github.com/civ6bot/website) — visit Civ6Bot website to invite bots, read slash commands list or check Civ6Bot wiki (WIP).
+#### You can check and test these bots on [Civ6Bot Discord server](https://discord.gg/CzCQPjxXTy).
 <br>
 
 ## <a name="list"></a>Why Civ6Bot?
