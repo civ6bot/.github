@@ -24,7 +24,7 @@
 - **up-to-date** — accords to Civilization VI latest version;
 - **tested by communities** — `20'000`+ users in `50`+ communities;
 - **feedback** — fixing reported bugs, implementing interesting requests and improving bots' commands;
-- **free and public** — click link in repository or bot's profile and push the button to invite it on your server!
+- **free and public** — click link in repository or go to bot's profile and push the button to invite it on your server!
 <br><br>
 
 ## <a name="tools"></a>Tools & Technologies
